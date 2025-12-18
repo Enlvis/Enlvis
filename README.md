@@ -4,4 +4,4 @@ Posiadam własne community opensource oraz kilka projektów.
 ## Oragnizacje 🔧
 **ByteForge** — Główny programista
 ## Projekty 👾
-**ByteOS** 
+**ByteOS** — Open-Source system
