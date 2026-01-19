@@ -5,3 +5,4 @@ Posiadam własne community opensource oraz kilka projektów.
 **ByteForge** — Główny programista
 ## Projekty 👾
 **ByteOS** — Open-Source system
+**BlueBot** — Discord bot for you serwer
