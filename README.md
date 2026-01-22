@@ -1,4 +1,4 @@
-<div Anglik="center">
+<div angil="center">
 # 💫 About Me:
 🇵🇱 Polish profile<br>🔗 Full Stack developer<br>👾 ByteForge developer team<br>💡 Contact → enlvis@proton.me 
 
