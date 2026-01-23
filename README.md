@@ -1,5 +1,7 @@
 <div align="center">
 
+![Header](./baner.png)
+
 # 💫 About Me:
 🇵🇱 **Polish Full Stack Developer**<br>
 🔗 Building scalable web applications<br>
