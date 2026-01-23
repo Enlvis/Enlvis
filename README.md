@@ -8,7 +8,6 @@
 👾 Core member of **ByteForge** developer team<br>
 💡 Open for collaboration → **enlvis@proton.me**
 
-
 ## 🌐 Connect With Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Enlvis_) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:enlvis@proton.me) 
@@ -34,6 +33,6 @@
 
 ## 👾 ByteForge Development Team
 ### Team : Admin and Developer
-*Building innovative solutions together*
+
 
 </div>
