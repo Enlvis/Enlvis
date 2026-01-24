@@ -35,16 +35,11 @@
     <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" /><br>JavaScript</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="65" /><br>Webpack</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" /><br>MySQL</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" /><br>GitHub</td>
     <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" /><br>Git</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48" /><br>HTML5</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48" /><br>CSS</td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48" /><br>MongoDB</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br>Node.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=php" width="48" /><br>PHP</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48" /><br>VSCode</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=wordpress" width="48" /><br>WordPress</td>
   </tr>
 </table>
