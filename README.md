@@ -58,7 +58,7 @@
 
 ---
 
-## 👾 ByteForge Development Team
+## 👾 OpenDomain-network Development Team
 Core member as **Admin & Developer** – collaborating on full-stack and web projects.
 
 ---
