@@ -11,10 +11,9 @@
                                                      
 
 # 💫 About Me
-🇵🇱 **Polish Full Stack Developer**  
+🔸 Full Stack Developer <br>
 🔗 Building scalable web applications & fun side projects  
-👾 Core member of **ByteForge** developer team  
-💡 Open for collaboration → **enlvis@proton.me**
+💡 Open for collaboration → ```contact@enlvis.xyz```
 
 ---
 
@@ -66,11 +65,3 @@
 
 ---
 
-## 👾 OpenDomain-network Development Team
-Core member as **Admin & Developer** – collaborating on full-stack and web projects.
-
----
-
-<div align="center">
-✨ Let’s build something awesome together! ✨
-</div>
